@@ -1,6 +1,6 @@
 ---
 title: Post template
-descriptions: For this template to add your post.
+description: For this template to add your post.
 keywords: [ZK, Intents, Proof Carrying Data]
 slug: ./template
 published: false
