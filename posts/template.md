@@ -40,6 +40,8 @@ dextra ora capillis maturior recessit frequentat ferus namque cornu!
 Retorsit prosternit viroque aequore circa! Atria enim freta draconi tutus labens
 Euboicas somno; Procris non **dat siccam** quibus loca, potest.
 
+![absolute image](https://placehold.co/600x400)
+
 ## Nec et viseret utroque trunci
 
 Ferrum Lyciaeque an haec excitat! Attonitus meae, iurant utque diroque

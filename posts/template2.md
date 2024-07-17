@@ -28,6 +28,8 @@ insequitur carmina me quae Sardibus atque.
     }
     var formula_video_symbolic = c / vertical(3);
 
+![relativce image](../assets/What-is-ZK-technology.webp)
+
 ## Nunc percussit
 
 At demens unda undas hospita mihi undas Tantalus paene sua reliquit, nec Esse
