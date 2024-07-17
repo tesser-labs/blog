@@ -1,6 +1,6 @@
 ---
 title: What is ZK
-descriptions: ZK technology, or zero-knowledge technology, is a blanket term for protocols and services using an encryption method called zero-knowledge proofs. Zero-knowledge proofs allow one party to prove a fact to another party so they can verify it without the second party knowing the fact itself..
+description: ZK technology, or zero-knowledge technology, is a blanket term for protocols and services using an encryption method called zero-knowledge proofs. Zero-knowledge proofs allow one party to prove a fact to another party so they can verify it without the second party knowing the fact itself..
 keywords: [ZK, Intents, Proof Carrying Data]
 slug: ./template2
 published: false
