@@ -1,6 +1,6 @@
 ---
-title: In Math we trust, Transitioning from "Code is law" to "Math is Law"
-description: For this template to add your post.
+title: In Math we trust. Transitioning from "Code is law" to "Math is Law"
+description: The decentralized computing and blockchain space is on the cusp of one of its biggest paradigm shifts, transitioning from "Code is Law" to "Math is Law."
 keywords: [ZK, Verifiable Computing, Proof Carrying Data]
 slug: ./math_is_law
 published: true
@@ -8,10 +8,6 @@ author: Hamid Alipour
 date: 2024-08-03
 hero_image: ../assets/MathIsLaw.png
 ---
-
-# In Math we trust, Transitioning from "Code is law" to "Math is Law"
-
-#### Introduction
 
 The decentralized computing and blockchain space is on the cusp of one of its biggest paradigm shifts: transitioning from "Code is Law" to "Math is Law." This shift promises to revolutionize the industry by leveraging advancements in technologies like Zero Knowledge Proofs (ZKPs) and Verifiable Computing. These advancements enable the creation of sound and robust mathematical proofs for the correctness of computations and the soundness of their outcomes. The transition opens up a vast domain of possibilities that were not traditionally feasible, bringing a whole new realm of applications and use cases to the blockchain.
 
