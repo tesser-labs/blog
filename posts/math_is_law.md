@@ -1,4 +1,4 @@
---
+---
 title: In Math we trust, Transitioning from "Code is law" to "Math is Law"
 description: For this template to add your post.
 keywords: [ZK, Verifiable Computing, Proof Carrying Data]
@@ -7,10 +7,9 @@ published: true
 author: Hamid Alipour
 date: 2024-08-03
 hero_image: ../assets/MathIsLaw.png
-
 ---
 
-## In Math we trust, Transitioning from "Code is law" to "Math is Law"
+# In Math we trust, Transitioning from "Code is law" to "Math is Law"
 
 #### Introduction
 
