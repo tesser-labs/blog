@@ -6,7 +6,7 @@ slug: ./in_math_we_trust
 published: true
 author: Hamid Alipour
 date: 2024-08-03
-hero_image: ../assets/
+hero_image: ../assets/MathIsLaw.png
 
 ---
 
