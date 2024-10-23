@@ -6,7 +6,7 @@ slug: ./math_is_law
 published: true
 author: Hamid Alipour
 date: 2024-08-16
-hero_image: ../assets/MathIsLaw.png
+hero_image: ../assets/1/math_is_law.png
 ---
 
 The decentralized computing and blockchain space is on the cusp of one of its biggest paradigm shifts: transitioning from "Code is Law" to "Math is Law." This shift promises to revolutionize the industry by leveraging advancements in technologies like Zero Knowledge Proofs (ZKPs) and Verifiable Computing. These advancements enable the creation of robust mathematical proofs for the correctness of computations and the soundness of their outcomes. This transition opens up a vast domain of possibilities that were not traditionally feasible, bringing a whole new realm of applications and use cases to the blockchain.
