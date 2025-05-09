@@ -1,5 +1,5 @@
 ---
-title: The Evolution of AI Agents, From Experimental Prototypes to Agentic Economies
+title: AI Agents, From Experimental Prototypes to Agentic Economies
 description: AI agents have rapidly evolved from experimental workflows to reliable production systems and are on the cusp of becoming independent service providers in agentic economies.
 keywords:
   [
