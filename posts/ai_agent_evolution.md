@@ -11,7 +11,7 @@ keywords:
     Agent 2 Agent,
   ]
 slug: ./ai_agent_evolution
-published: false
+published: true
 author: Hamid Alipour
 date: 2025-04-01
 hero_image: ../assets/3/agent_econ.png
